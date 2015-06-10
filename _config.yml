@@ -1,11 +1,11 @@
 name: Simply Grey
 markdown: redcarpet
 pygments: true
-github: https://www.github.com/exaem
+github: http://lgp2013.github.io/lgpbbs/
 about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
 baseurl: "/lgpbbs" # the subpath of your site, e.g. /blog/
 urls:
     - text: github
-      url: www.baidu.com
+      url: lgpbbs/
     - text: email
       url: mailto:exaem@exaem.co.uk
