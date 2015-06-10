@@ -6,6 +6,6 @@ about: I am an independent developer from the sunny UK. I dabble in Ruby, play i
 baseurl: "/lgpbbs" # the subpath of your site, e.g. /blog/
 urls:
     - text: github
-      url: https://github.com/exaem
+      url: www.baidu.com
     - text: email
       url: mailto:exaem@exaem.co.uk
